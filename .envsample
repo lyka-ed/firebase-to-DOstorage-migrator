@@ -1,0 +1,4 @@
+DO_ACCESS_KEY=your-access-key
+DO_SECRET_KEY=your-secret-key
+DO_BUCKET_ENDPOINT=.digitaloceanspaces.com
+DO_BUCKET_NAME=your-digitalocean-bucket-name

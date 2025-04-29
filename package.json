@@ -1,0 +1,17 @@
+{
+  "name": "digitalocean-storage-migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploadStorage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^16.5.0"
+  }
+}
