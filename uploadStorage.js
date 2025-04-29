@@ -10,7 +10,7 @@ const s3 = new AWS.S3({
     secretAccessKey: process.env.DO_SECRET_KEY
 });
 
-// Directory where thenlocal Firebase-exported storage files are saved
+// Directory where the local Firebase-exported storage files are saved
 const storageFolder = path.join(__dirname, 'storage');
 
 async function uploadFiles() {
